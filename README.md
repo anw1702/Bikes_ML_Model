@@ -1,5 +1,5 @@
 # Bikes_ML_Model
-this projet trains the model, to predict rental of bikes during particular conditions of humidity, temperature and windspeed.
+this project trains the model, to predict rental of bikes during particular conditions of humidity, temperature and windspeed.
 <br>
 Half of the dataset is divided for training and testing. Preprocessing data
 <br>
